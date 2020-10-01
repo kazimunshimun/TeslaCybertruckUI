@@ -2,8 +2,19 @@
 
 Replicating Tesla Cybertruck dribble design in SwiftUI 2.0 
 
-UI Design : https://dribbble.com/shots/10196092-Tesla-Smart-App
+## Overview
 
-Part 1: https://youtu.be/JOQ8xDxptZ0
+<p float="left">
+<img src="https://github.com/kazimunshimun/TeslaCybertruckUI/raw/master/cybertruck.gif" width="340">
+</p>
 
-Part 2: https://youtu.be/Vja_fa1IhHI
+## Youtube speed code:
+
+#### Tutorial 1:
+[![Banking Part 1 tutorial](http://img.youtube.com/vi/JOQ8xDxptZ0/0.jpg)](https://youtu.be/JOQ8xDxptZ0)
+
+#### Tutorial 2:
+[![Banking Part 2 tutorial](http://img.youtube.com/vi/Vja_fa1IhHI/0.jpg)](https://youtu.be/Vja_fa1IhHI)
+
+
+## Dribble Inspiration: https://dribbble.com/shots/10196092-Tesla-Smart-App
